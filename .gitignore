@@ -1,0 +1,5 @@
+# Rider / VS
+.idea/
+.vs/
+*.user
+*.suo
